@@ -1,0 +1,7 @@
+ligand=abc
+cofac=UDP
+protein=ugt1a1
+dirpath=/home/vaibhav/shivam/vad-ugt-md 
+dir=UDP-UGT1A1-1
+posenumber=1
+molchrg=-2
