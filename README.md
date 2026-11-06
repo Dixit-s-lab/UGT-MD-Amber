@@ -1,2 +1,21 @@
 # UGT-MD-Amber
 MD simulations for UGT bound to ligand and cofactor
+
+                            Copyright (c) 2026 [Dr. Vaibhav A. Dixit, Asst. Prof., Dept. of Med. Chem., NIPER Guwahati ]. All Rights Reserved.
+
+1. Academic and Educational Use
+Permission is hereby granted, free of charge, to students and academic researchers to use this software solely for non-commercial, educational, and academic thesis purposes.
+
+2. Restrictions
+Under this license, you may strictly NOT:
+
+Use this software for any commercial, corporate, or for-profit purpose.
+
+Modify, alter, or create derivative works of this software.
+
+Distribute, sub-license, or share this software (or any modifications) with third parties.
+
+3. Commercial Licensing
+Commercial use, modification, and distribution rights are strictly prohibited without a separate commercial agreement. For commercial licensing and pricing, please contact: Dr. Vaibhav A. Dixit [vaibhavadixit@gmail.com, vaibhav@niperguwahati.in]
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
